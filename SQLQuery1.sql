@@ -9,7 +9,7 @@ create table pizza_sales
 	order_date	date,
 	order_time	time,
 	unit_price	float,
-	total_price	 float,
+	total_price	float,
 	pizza_size	varchar(2),
 	pizza_category	varchar(20),
 	pizza_ingredients	varchar(100),
